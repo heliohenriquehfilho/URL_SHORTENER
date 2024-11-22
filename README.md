@@ -43,14 +43,14 @@ This application requires the following Python packages:
 
 These dependencies are listed in `requirements.txt`.
 
-##Usage
+## Usage
 Enter the URL you wish to shorten in the input field displayed on the app.
 Click the "Shorten" button.
 The shortened URL will be displayed below the input field.
 Contributing
 To contribute, fork the repository and create a feature branch off the master branch. Submit a pull request with your changes, and include clear descriptions of what you've added or modified.
 
-##License
+## License
 This project is licensed under the MIT License. Refer to the LICENSE file for details.
 
 
